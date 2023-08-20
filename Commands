@@ -1,0 +1,13 @@
+I recently learned commands to use on Mac and Linux. Not sure about windows!
+#Commands
+1) Use $exa -l instead of $ls -l (it will show details in colored format)
+exa -l -T to render in tree format.
+2) rip grep to grep text from files
+$rg hello
+$ fill in later to search within PDFs and movie titles ...
+3) plocate to locate the file with text in the filename.
+
+#Vi
+In vi editor, search with /[search text]; press n to go next and N to go back.
+
+
